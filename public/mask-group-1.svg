@@ -1,0 +1,16 @@
+<svg width="210" height="97" viewBox="0 0 210 97" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_112" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="11" y="9" width="192" height="73">
+<rect x="11" y="9" width="192" height="73" rx="6" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_112)">
+<circle cx="195.5" cy="14.5" r="14.35" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="193.5" cy="16.5" r="16.35" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="191.5" cy="18.5" r="18.35" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="188.5" cy="22.5" r="19.35" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="14.771" cy="79.5459" r="14.35" transform="rotate(-158.74 14.771 79.5459)" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="17.3601" cy="78.4073" r="16.35" transform="rotate(-158.74 17.3601 78.4073)" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="19.9492" cy="77.2686" r="18.35" transform="rotate(-158.74 19.9492 77.2686)" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="24.1954" cy="74.6286" r="19.35" transform="rotate(-158.74 24.1954 74.6286)" stroke="#D1D1D1" stroke-width="0.3"/>
+<circle cx="26.1373" cy="73.7746" r="22.85" transform="rotate(-158.74 26.1373 73.7746)" stroke="#D1D1D1" stroke-width="0.3"/>
+</g>
+</svg>
